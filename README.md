@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dee1281
+- 👋 Hi, I’m Devika 
 - 👀 I’m interested in SQL, Python & Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on SQL, Python, Machine Learning
